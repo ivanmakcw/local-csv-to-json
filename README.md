@@ -1,4 +1,4 @@
-# Local csv to json
+# Locale csv to json
 
 This is a open source project that allow user to use CSV file to store locale text of different language and automatically generate corresponding locale json file.
 

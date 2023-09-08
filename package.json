@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ivanmakcw/local-csv-to-json.git"
+    "url": "git+https://github.com/ivanmakcw/locale-csv-to-json.git"
   },
   "author": "Ivan Mak",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ivanmakcw/local-csv-to-json/issues"
+    "url": "https://github.com/ivanmakcw/locale-csv-to-json/issues"
   },
-  "homepage": "https://github.com/ivanmakcw/local-csv-to-json#readme",
+  "homepage": "https://github.com/ivanmakcw/locale-csv-to-json#readme",
   "dependencies": {
     "csvtojson": "^2.0.10"
   }
